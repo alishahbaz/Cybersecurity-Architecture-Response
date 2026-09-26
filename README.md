@@ -67,14 +67,14 @@ That is why modern organizations use:
 
 ## Quick Navigation
 
-- [Home](/Home)
-- [Security Equation](Security-Equation)
-- [Response Basics](Response-Basics)
-- [Cases & Investigations](Cases-and-Investigations)
-- [SOAR](SOAR)
-- [Automation vs Orchestration](Automation-vs-Orchestration)
-- [Breach Notification](Breach-Notification)
-- [Glossary](Glossary)
+- [Home](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki)
+- [Security Equation](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki/Security-Equation)
+- [Response Basics](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki/Response-Basics)
+- [Cases & Investigations](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki/Cases-and-Investigations)
+- [SOAR](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki/SOAR)
+- [Automation vs Orchestration](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki/Automation-vs-Orchestration)
+- [Breach Notification](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki/Breach-Notification)
+- [Glossary](https://github.com/alishahbaz/Cybersecurity-Architecture-Response/wiki/Glossary)
 
 ---
 
