@@ -1,4 +1,4 @@
-# README — Cybersecurity Architecture: Response
+# 08 Cybersecurity Response
 
 This Wiki is a practical summary of the **Response** episode in the Cybersecurity Architecture series.
 
